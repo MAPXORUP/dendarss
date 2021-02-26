@@ -1,5 +1,5 @@
-const Discord = require("discord.js");
-const bot = new Discord.Client();
+By const Discord = require("discord.js");
+const bot = new Discord.Client("Nzg0MzA0ODQzODA3MzkxNzU1.X8nWzg.5VIYoq2Pk_UQe4FFiTMJhOvzB-E");
 const dateFormat = require("dateformat"); //npm i dateformat
 const client = new Discord.Client();
 const yt = require("ytdl-core");
